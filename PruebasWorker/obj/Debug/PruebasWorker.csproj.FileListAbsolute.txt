@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\bin\Debug\PruebasWorker.exe.config
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\bin\Debug\PruebasWorker.exe
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\bin\Debug\PruebasWorker.pdb
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.Form1.resources
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.Properties.Resources.resources
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.exe
+C:\Users\USER\Desktop\Pruebas\PruebasWorker\PruebasWorker\obj\Debug\PruebasWorker.pdb
